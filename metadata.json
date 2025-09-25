@@ -1,0 +1,5 @@
+{
+  "name": "AntPack - Generador de Mensajes de LinkedIn con IA",
+  "description": "Una aplicación para generar mensajes de conexión de LinkedIn hiper-personalizados utilizando IA mediante el análisis de datos de perfiles. El objetivo es iniciar conversaciones genuinas, no vender directamente.",
+  "requestFramePermissions": []
+}
